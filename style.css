@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-color: rgb(191, 191, 191);
+}
+canvas{
+
+    border: 1px solid grey;
+    border-radius: 20px;
+}
+.win{
+    margin: 10px auto;
+    width: 100%;
+    background-color: rgb(118, 151, 179);
+
+}
